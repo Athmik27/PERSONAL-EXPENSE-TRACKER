@@ -1,5 +1,5 @@
 
-# Personal Expense Tracker 
+# My Personal Expense Tracker 
 
 A desktop application built with Python, Tkinter, and SQLite to manage personal income and expenses. The application allows users to add, edit, delete, search, filter, and export financial transactions.
 
